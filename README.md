@@ -53,7 +53,7 @@ Install dependencies
 
 Start the application
 
-```bash
-  npm start
+```
+  Go to http://127.0.0.1:3030
 ```
 
